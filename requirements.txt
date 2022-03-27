@@ -1,0 +1,17 @@
+#Python libraries we'll be using for this project.
+
+# Testing and code checking
+hypothesis~=5.33.2
+pytest~=6.2.1
+python-ta~=1.6.3
+
+# Graphics and data visualization
+plotly~=4.9.0
+pygame~=2.0.1
+
+dataclasses~=0.6
+typing~=3.7.4.3
+networkx~=2.5
+collections
+
+
